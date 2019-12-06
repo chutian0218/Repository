@@ -1,3 +1,11 @@
-<h2 id="-"></h2>
-<p><strong>This is bold text</strong></p>
-<p><strong>This is bold text</strong></p>
+<h2 id="-">基础数据结构</h2>
+<p><strong>线性表</strong></p>
+<a>超市条形码和价格的关系：就是在你拿一个商品去结账，收银员扫一下条形码就知道该商品的价格等</a>
+<p><strong>栈</strong></p>
+<a>物流装车，先装车的后出，后装车的先出来</a>
+<p><strong>队列</strong></p>
+<a>银行排队叫号</a>
+<p><strong>树</strong></p>
+<a>公司组织架构图</a>
+<p><strong>图</strong></p>
+<a>圆桌上大家吃饭就桌，每个人和每盘才的关系</a>
