@@ -1,11 +1,17 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Keywordretrieval", "Keywordretrieval\Keywordretrieval.shproj", "{63011D99-FD07-472D-90E9-2F024A2FD40A}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Keywordretrieval\Keywordretrieval.projitems*{63011d99-fd07-472d-90e9-2f024a2fd40a}*SharedItemsImports = 13
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2E879A-7005-4C15-9315-0AF0AE074548}
 	EndGlobalSection
 EndGlobal
