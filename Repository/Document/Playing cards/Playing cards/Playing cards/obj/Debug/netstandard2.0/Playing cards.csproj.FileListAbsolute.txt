@@ -1,0 +1,9 @@
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\bin\Debug\netstandard2.0\Playing cards.deps.json
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\bin\Debug\netstandard2.0\Playing cards.dll
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\bin\Debug\netstandard2.0\Playing cards.pdb
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.csprojAssemblyReference.cache
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.csproj.CoreCompileInputs.cache
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.AssemblyInfoInputs.cache
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.AssemblyInfo.cs
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.dll
+H:\算法\Repository\Repository\Document\Playing cards\Playing cards\Playing cards\obj\Debug\netstandard2.0\Playing cards.pdb
